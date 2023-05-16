@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    background-color: #946bbe;
+}
+h1{
+    display: inline-block;
+    position: relative;
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 100px;
+    bottom: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+
+}
+
+.top{
+    height: 200px;
+}
+.corner{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 800px;
+    bottom: 20px;
+}
+.separate{
+    height: 50px;
+    background-color: black;
+    margin: 0;
+
+
+}
+
+
+.back{
+    width: 1519px;
+    height: 600px;
+}
+p{
+    display: inline-block;
+    color: white;
+    
+}
+
+.i{
+    display: inline-block;
+    z-index: 2;
+    position: relative;
+    left: 1000px;
+    padding: 0;
+    top: 10px;
+    color: white;
+    margin-right: 20px;
+    
+}
+h2{
+    margin: 0;
+    font-family: 'Great Vibes', cursive;
+font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+.mid2{
+    height: 800px;
+    position: relative;
+}
+.pic2{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.content{
+    display: inline-block;
+    position: absolute;
+    width: 700px;
+    left: 750px;
+    top: 200px;
+    font-size: 35px;
+    font-family: 'Great Vibes', cursive;
+font-family: 'Raleway', sans-serif;
+    
+}
+a{
+    color: azure;
+    text-decoration: none;
+}
+.k:hover{
+    color: #944ddc;
+}
+
+
+
+
+
+
+.footer{
+    background-color:#944ddc;
+    display: inline-block;
+    width: 2290px;
+    height: 400px;
+}
+.top2>.o{
+    display: inline-block;
+    color: azure;
+    font-size: 40px;
+    position: relative;
+    left: 252px;
+    font-family: 'Great Vibes', cursive;
+font-family: 'Raleway', sans-serif;
+}
+.name>input{
+    width: 600px;
+    height: 40px;
+    /* border-radius: 50px solid  black; */
+}
+.name{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+
+}
+.email>input{
+    width: 600px;
+    height: 40px;
+    /* border-radius: 50px solid  black; */
+}
+.email{
+    display: inline-block;
+    position: relative;
+    left:250px;
+    
+
+}
+.hold
+{
+    display: inline-block;
+    position: relative;
+   
+    
+}
+:placeholder-shown
+{
+    font-size: 25px;
+    font-weight:lighter;
+}
+.btn1
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 4px;
+    color: white;
+    background-color: black;
+    position: relative;
+    top: 80px;
+    left: 701px;
+    font-size: 20px;
+}
+
+
+
+.footer1{
+    position: relative;
+    top: 20px;
+    margin: 10px 30px;
+    color: #FFEBEB;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    left: 100px;
+}
+.copyright{
+    color: #EAF6F6;
+    padding: 20px 0;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0;
+    margin-top: 30px;
+}
+  .insta{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+  }
+
+
+.link{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+  }
+
+
+.twit{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+  }
+
+
+.logo{
+    position: relative;
+    top: 102px;
+    left: 350px;
+    width: 1000px;
+}
+.j{
+    left: 120px;
+}
